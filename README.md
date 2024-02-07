@@ -1,4 +1,4 @@
-# sql-database
+# SQL-database
 This pertains to the SQL mini-project deliverable during week 3 of the Ironhack Data Analytics bootcamp.
 
 ## Overview
